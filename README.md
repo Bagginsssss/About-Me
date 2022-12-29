@@ -6,7 +6,7 @@
 
 Hey Guys, I like to code! 
 
-  I find it really fun and interesting. I've been messing around a lot with Django and some small python scripts but mostly working on the weddev side
+  I find it really fun and interesting. I've been messing around a lot with Django and some small python scripts but mostly working on the WebDev side
   of things. 
   
   Always working, always innovating and learning how i can do cool & unique things.
